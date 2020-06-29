@@ -102,11 +102,11 @@
 
    > Rename「Linux Index」 to「Host System And Services」，主要面向 Linux、涉及 Windows 将其简称为“服务”
 
-3. ###### 05/26/20  -- Move 「Notes Copy」to Gitbooks/Github 
+3. ###### 05/26/20  -- Move 「Notes Copy」to Gitbooks / Github 
 
-   > Rename title「BookNotes Todo」，这只是一个笔记；
+   > Rename title「Notes Todo」，这只是一个笔记；
    >
-   > 取消了该计划  -- 05/26/20；
+   > 取消了该计划 # GitBooks-- 05/26/20；
 
 4. ###### 06/19/20 -- Add 「Basic Computer」
 
@@ -122,5 +122,5 @@
 
 ## 12. 附录 2.Notes
 
-1. 基本无实践性的存在，我自称其为「虚有其名」。-- 2020/06/22
+1. 缺少实践性，不敢妄称 Blog ，自称其为「笔记」。-- 2020/06/22
 

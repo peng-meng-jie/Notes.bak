@@ -37,15 +37,29 @@ CCNA - 节选；
 
 NAS、正则表达式、计算机图形设计、CSV；
 
-[10.附录 1. Package](./10.附录 1. Package)
+[10.附录1.Package](./10.附录1.Package)
 
 存储微小的数据包；
 
-[11.附录 2. WeeklyLogs](./11.附录 2. WeeklyLogs)
+[11.附录2.WeeklyLogs](./11.附录2.WeeklyLogs)
 
 记录和编写一些技术文档，源于工作的维护技术支持和参阅于互联网，更新周期以周和月为单位；
 
-[12.附录 3. books](./12.附录 3. books)
+[12.附录3.books](./12.附录3.books)
 
-个人需要阅读的一些书籍，由于版权问题，不上传；
+个人需要阅读的一些书籍。由于版权问题不上传，书单如下；
+
+> ​    CCNA学习指南中文第七版.pdf
+> ​    Linux-Tools-RTS.epub
+> ​    Python Cookbook 3rd Edition Documentation.epub
+> ​    python-data-structure-cn.pdf
+> ​    SQL必知必会-中文-第4版.pdf
+> ​    vbird-linux-basic-4e.pdf
+> ​    流畅的python.pdf
+
+Notes
+
+本笔记不具备完整性，只完成了大部分，其中有一部分计划中或正在学习中。
+
+参阅 : [Todo 清单](./NoteTodo.md)
 
