@@ -1,7 +1,6 @@
-# Notes.bak
-一些笔记的记录的副本，根据 GitHub 排版。
+# TO DO
 
-这是一个关于「计算机资源管理的电子档笔记」。
+这是一个关于「计算机资源管理的电子档笔记」
 
 [TOC]
 
@@ -114,20 +113,14 @@
    > [What-is-the-basic-principle-of-a-computer-system](https://www.quora.com/What-is-the-basic-principle-of-a-computer-system)
    >
    > 计算机的基础就是一台可输入可输出的机电集成设备；
-
+   
 5. ###### 06/23/20 Add SQL
 
    > 增加补全计划 1. SQL Language，如果能预期完成就能涉及到运维的方方面面，全而不精；
    >
    > 作为一名社会的应聘者，基本面临着“拿什么价位的钱，办什么样的事”；
 
+## 12. 附录 2.Notes
 
-
-
-
-
-
-
-
-
+1. 基本无实践性的存在，我自称其为「虚有其名」。-- 2020/06/22
 
