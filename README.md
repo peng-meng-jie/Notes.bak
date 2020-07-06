@@ -49,19 +49,13 @@ NAS、正则表达式、计算机图形设计、CSV；
 
 个人需要阅读的一些书籍。由于版权问题不上传，书单如下；
 
-> - CCNA学习指南中文第七版.pdf
->
-> - Linux-Tools-RTS.epub
->
-> - Python Cookbook 3rd Edition Documentation.epub
->
-> - python-data-structure-cn.pdf
->
-> - SQL必知必会-中文-第4版.pdf
->
-> - vbird-linux-basic-4e.pdf
->
-> - 流畅的python.pdf
+> ​    CCNA学习指南中文第七版.pdf
+> ​    Linux-Tools-RTS.epub
+> ​    Python Cookbook 3rd Edition Documentation.epub
+> ​    python-data-structure-cn.pdf
+> ​    SQL必知必会-中文-第4版.pdf
+> ​    vbird-linux-basic-4e.pdf
+> ​    流畅的python.pdf
 
 Notes
 

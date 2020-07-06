@@ -10,8 +10,8 @@
 - [ ] Linux 基础的文档
 - [ ] 基本的命令
 - [ ] 编辑器 VIM
-- [ ] 熟悉一个开发版Linux（Debain）
-- [ ] 日常使用Linux
+- [ ] ~~熟悉一个开发版 Linux（Debain）~~
+- [x] 日常使用 Linux （使用 Windows WSL）
 
 ## 2. 运维
 
@@ -91,7 +91,7 @@
 
 ① 计算机安全；② 责任心；③ 细心；④ 改善与推进；⑤ 学习与探索；
 
-## 11. 附录 1.Document Logs
+## 11. 附录 1. Logs
 
 1. ###### 12/09/19  -- COPY 「Linux Support」 Skill Tree
 
