@@ -202,4 +202,5 @@ $HotFix_FAB > FAB-Hotfix-IP.txt
 5. [Windows 批处理(cmd/bat) 常用命令小结 -- Blog](https://wsgzao.github.io/post/windows-batch/)
 6. [编写批处理文件 -- wikihow](https://zh.wikihow.com/编写批处理文件)
 7. [批处理总结与分享（适用于 Win XP）-- CSDN](https://blog.csdn.net/z22050519/article/details/17019137)
+8. [CMD 命令总结与解析 -- Blog](http://xstarcd.github.io/wiki/windows/windows_cmd_syntax.html)
 
