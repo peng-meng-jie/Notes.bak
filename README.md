@@ -47,19 +47,19 @@ NAS、正则表达式、计算机图形设计、CSV；
 
 [12.附录3.books](./12.附录3.books)
 
-个人需要阅读的一些书籍。由于版权问题不上传，书单如下；
+个人阅读的一些书籍。由于版权问题不上传，书单如下；
 
-> ​    CCNA学习指南中文第七版.pdf
-> ​    Linux-Tools-RTS.epub
-> ​    Python Cookbook 3rd Edition Documentation.epub
-> ​    python-data-structure-cn.pdf
-> ​    SQL必知必会-中文-第4版.pdf
-> ​    vbird-linux-basic-4e.pdf
-> ​    流畅的python.pdf
+> - CCNA 学习指南中文第七版.pdf
+> - Linux-Tools-RTS.epub
+> - Python Cookbook 3rd Edition Documentation.epub
+> - python-data-structure-cn.pdf
+> - SQL 必知必会-中文-第 4 版.pdf
+> - vbird-linux-basic-4e.pdf
+> - 流畅的 python.pdf
 
 Notes
 
-本笔记不具备完整性，只完成了大部分，其中有一部分计划中或正在学习中。
+本笔记不具备完整性，只完成了大部分，其中有一部分计划中或正在学习中、或者因为其他问题导致关闭。
 
 参阅 : [Todo 清单](./NoteTodo.md)
 
