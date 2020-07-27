@@ -108,6 +108,8 @@ Reference
    [PowerShell Module Browser](https://docs.microsoft.com/en-us/powershell/module/)
 
    [controlpanel-canonical-names](https://docs.microsoft.com/zh-cn/windows/win32/shell/controlpanel-canonical-names)
+   
+   [executing-control-panel-items](https://docs.microsoft.com/zh-cn/windows/win32/shell/executing-control-panel-items)
 
 
 
