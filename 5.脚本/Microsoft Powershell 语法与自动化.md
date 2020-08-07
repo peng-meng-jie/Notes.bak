@@ -196,11 +196,12 @@ $HotFix_FAB > FAB-Hotfix-IP.txt
 #### 附录
 
 1. [PowerShell -- Microsoft Docs](https://docs.microsoft.com/zh-cn/powershell)
-2. [PowerShell 语法总结 -- Blog](https://bbkali.github.io/2020/01/27/powershell语法总结/)
-3. [PowerShell 基础总结 -- Blog](http://1sparrow.com/2018/07/05/PowerShell 基础总结/)
-4. [Powershell 4.0 在线教程(旧版)](https://www.pstips.net/)
-5. [Windows 批处理(cmd/bat) 常用命令小结 -- Blog](https://wsgzao.github.io/post/windows-batch/)
-6. [编写批处理文件 -- wikihow](https://zh.wikihow.com/编写批处理文件)
-7. [批处理总结与分享（适用于 Win XP）-- CSDN](https://blog.csdn.net/z22050519/article/details/17019137)
-8. [CMD 命令总结与解析 -- Blog](http://xstarcd.github.io/wiki/windows/windows_cmd_syntax.html)
+2. [Windows commands (Windows Batch File) on Server -- Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
+3. [PowerShell 语法总结 2020 -- Blog](https://bbkali.github.io/2020/01/27/powershell语法总结/)
+4. [PowerShell 基础总结 2018 -- Blog](http://1sparrow.com/2018/07/05/PowerShell 基础总结/)
+5. [Powershell 4.0 在线教程(旧版)](https://www.pstips.net/)
+6. [Windows 批处理(cmd/bat) 常用命令小结 -- Blog](https://wsgzao.github.io/post/windows-batch/)
+7. [编写批处理文件 -- wikihow](https://zh.wikihow.com/编写批处理文件)
+8. [批处理总结与分享（适用于 Win XP）-- CSDN](https://blog.csdn.net/z22050519/article/details/17019137)
+9. [CMD 命令总结与解析 -- Blog](http://xstarcd.github.io/wiki/windows/windows_cmd_syntax.html)
 
