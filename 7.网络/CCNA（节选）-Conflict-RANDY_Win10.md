@@ -1,21 +1,19 @@
-# CCNA（节选）
+## CCNA（节选）
 
 内容为节选，如下：
 
-- 交换机路由器 telnet 的配置
+- 交换机路由器telnet的配置
 - 对于交换机路由器的接口IP配置
-- VLAN 的基本配置
-- 路由协议 RIP、EIGRP、OSPF 的简单配置
-- 基本的 show 命令
+- VLAN的基本配置
+- 路由协议RIP/EIGRP/OSPF的简单配置
+- 基本的show命令
 - 基本的网络排错能力（ping，traceroute，telnet，arp）
 
 目的层次：掌握、了解、”从概念到概念理“
 
-[TOC]
+### 一. Route、Telnet（or SSH）、 IP config
 
-## 一. Route、Telnet（or SSH）、 IP config
-
-### 1. 模拟器
+##### 1. 模拟器
 
 对于基础知识的实践性有很大的作用，可以帮助你更好的学习网络知识；
 
@@ -23,7 +21,7 @@
 
 > 搭建示例：[GNS3 Route 模拟器 - 环境构建示例](https://www.kjnotes.com/devtools/53)
 
-### 2. Route
+##### 2. Route
 
 用一台电脑主机来理解吧.
 
@@ -31,19 +29,19 @@
 
 这里全都不讨论，太基础了是必备的啊
 
-### 3. Telnet and SSH
+##### 3. Telnet and SSH
 
 为你的 Route 搭建一条初始化的”通道“，Telent 或者 SSH 还有实体机操作。不做描述，请参阅网络资源和配置手册。
 
-### 4. IP config
+##### 4. IP config
 
 基本 CLI 是必须的，请查阅本文第 4 点。
 
-**Notes**
+###### Notes
 
 基本也是从概念到概念，暂无实际操作，Pending - 2020/05/22
 
-## 二. VLAN
+### 二. VLAN
 
 > **虚拟局域网**（**Virtual Local Area Network**或简写**VLAN**, **V-LAN**）是一种建构于局域网交换技术（LAN Switch）的[网络管理](https://zh.wikipedia.org/wiki/網絡管理)的技术，网管人员可以借此透过控制[交换机](https://zh.wikipedia.org/wiki/交換器)有效分派出入局域网的报文到正确的出入端口，达到对不同实体局域网中的设备进行逻辑分群（Grouping）管理，并降低局域网内大量数据流通时，因无用报文过多导致壅塞的问题，以及提升局域网的信息安全保障。	-- Wikipedia # VLAN
 >
@@ -66,11 +64,11 @@
 
 <u>Notes：20/05/19 从概念到概念 # Pass</u>
 
-## 三. Route 协议（节选）
+### 三. Route 协议（节选）
 
 Route 即是网络道路，以下协议涉及配置、维护、计算网络的通道。了解即可。
 
-### 1. RIP
+##### 1. RIP
 
 > RIP是Routing Information Protocol（路由信息协议）的简称，它是一种较为简单的内部网关协议（Interior Gateway Protocol）。RIP是一种基于距离矢量（Distance-Vector）算法的协议，它使用跳数（Hop Count）作为度量来衡量到达目的网络的距离。RIP通过UDP报文进行路由信息的交换，使用的端口号为520。
 >
@@ -95,7 +93,7 @@ Route 即是网络道路，以下协议涉及配置、维护、计算网络的�
 
 用于内部网关，链路计算配置与搭建，用于搭建“网络高速线路”。
 
-### 2. EIGRP
+##### 2. EIGRP
 
 > **加强型网关间选径协议**（英语：Enhanced Interior Gateway Routing Protocol，缩写为EIGRP），又译**增强型内部网关路由协议**，一种[内部网关协议](https://zh.wikipedia.org/wiki/内部网关协议)（IGP）。在[内部网关路由协议](https://zh.wikipedia.org/wiki/内部网关路由协议)（IGRP）的基础上，由[思科](https://zh.wikipedia.org/wiki/思科)公司发展而成，于2013年[Cisco](https://zh.wikipedia.org/wiki/Cisco)将此标准公开，不再是私有的[路由协议](https://zh.wikipedia.org/wiki/路由协议)[[1\]](https://zh.wikipedia.org/wiki/加強型閘道間選徑協定#cite_note-1)，在同样。EIGRP是一种高级[距离矢量路由协议](https://zh.wikipedia.org/wiki/距离矢量路由协议)（也称混合型路由协议）	-- Wiki
 >
@@ -109,7 +107,7 @@ Route 即是网络道路，以下协议涉及配置、维护、计算网络的�
 
 进阶版的 RIP，可混合使用。
 
-### 3. OSPF
+##### 3. OSPF
 
 相对本文中两条协议，此协议个给了我全新的感觉，基于不同算法、设计理念、工作理念等。无奈基础知识薄弱，无力支撑理解该协议只好设为待定状态。
 
@@ -121,7 +119,7 @@ Notes：基于块管理，模组化。
 
 Pending
 
-## 四. Route “Bash”
+### 四. Route “Bash”
 
 储备基本的知识，「配置指南」很重要
 
@@ -129,18 +127,18 @@ Pending
 
 Point: CLI 手册/增删改查/上下文记录/提示符，其他的就看个人的熟练程度\基础\经验知识的储备了．
 
-## 五. 网络排错
+### 五. 网络排错ＥＮ
 
 ping、traceroute、telnet、arp
 
-1. IP 寻址排错（ Ping ）
+###### 1. IP 寻址排错（ Ping ）
 
 1. TCP/IP 协议：Ping 127.0.0.1，可确认 TCP/IP 协议是否正常工作；
 2. 网卡：Ping 本机 IP，可确认网卡是否正常工作；
 3. 局域网：Ping 同等网段或局域网服务器，可测试局域网是否连接正常；
 4. Internet：Ping baidu.com，测试 WAN 的连接性；
 
-2. Tracerouter
+###### 2. Tracerouter
 
 Linux 为 traceroute、Windows 为 tracer，已路由的跳点为基础，一次分别跳转一个路由。
 
@@ -148,15 +146,15 @@ Linux 为 traceroute、Windows 为 tracer，已路由的跳点为基础，一次
 
 Notes：网关跳转，记录网关；
 
-3. ARP
+###### 3. ARP
 
 发送广播 arp -a 即可获得已连接过的主机 IP 和 MAC 的地址。
 
 比如 确认 IP 和 MAC 地址，或查看多态路由连接表（交换路由上使用）。
 
-## Appendix
+### 附录
 
-### 1. 外部链接
+##### 1. 外部链接
 
 **Link**
 
@@ -176,9 +174,9 @@ Notes：网关跳转，记录网关；
 
 
 
-### 2. 基础补充
+##### 2. 基础补充
 
-2.1 ARP 
+###### 2.1 ARP 
 
 ARP 是地址解析协议，它的作用是在以太网环境下，通过3层的IP地址来找寻2层的MAC地址，得到一张ARP缓存表。转发数据的时候根据ARP缓存表来进行传输。
 

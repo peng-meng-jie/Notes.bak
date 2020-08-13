@@ -122,9 +122,7 @@ $HotFix_FAB > FAB-Hotfix-IP.txt
 
 ##### 3. 补充：Batch File、DOS
 
-微软 CLI 产品的前辈（Batch Command ）用于处理部分重复的任务，以 bat 为后缀。常见的应用环境为 Windows 7，而且目前得趋势是 powershell 取代。此条目为了特殊情况和特例的参考而编写。
-
-补充：根据官方信息 Windows Server 2019 上还支持 Batch Command，但不推荐。
+微软 CLI 产品的前辈（cmd/bat）用于处理部分重复的任务，以 bat 为后缀。常见的应用环境为 Windows 7，而且目前得趋势是 powershell 取代 cmd/bat。此条目为了特殊情况和特例的参考而编写。
 
 ###### 3.1 基础知识
 

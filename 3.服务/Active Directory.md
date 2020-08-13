@@ -1,6 +1,10 @@
 # Active Directory
 
-## 1. Microsoft AD
+
+
+[TOC]
+
+## 1. Microsoft Active Directory
 
 请查阅 Wiki 的百科，对此进行了解和再次扩展；
 
@@ -77,18 +81,27 @@ Pass...
 
 #### 1.5.3 补充
 
-##### 证书
+证书
 
 > 证书服务（Certificate Service）[[7\]](https://zh.wikipedia.org/wiki/Active_Directory#cite_note-7)是在Windows Server 2008中首次纳入活动目录体系的服务，它原本是在Windows 2000与Windows Server 2003的证书服务器（Certificate Server），用来创建企业中的[公开密钥基础建设](https://zh.wikipedia.org/wiki/公開金鑰基礎建設)，在Windows Server 2008中，证书和AD对象有了更强更紧密的集成，所以有了活动目录 Certificate Service（AD CS）的角色，这个角色还可以和权限管理的Right Management Service（RMS）集成在一起，提供对文件或应用程序层次的权利管理。
 
-##### 管理服务
+管理服务
 
 > 权利管理服务（Right Management Service）[[8\]](https://zh.wikipedia.org/wiki/Active_Directory#cite_note-8)也是在Windows Server 2008中首次纳入活动目录体系的服务，最早的时候，它是在[Microsoft Office 2003](https://zh.wikipedia.org/wiki/Microsoft_Office)开始提出的信息权利管理（Information Right Management）功能，可利用它来控制Office文件散布时的权限，例如打印以及存储文件等，接着微软发表了Right Management Server以及RMS SDK，供Windows Server 2003平台使用，而在Windows Server 2008中即将它集成到活动目录中，变成AD服务的一部分。
 
-## 附录
+## Appendix
 
-**Link**
+### Reference
 
 1. [AD](https://zh.wikipedia.org/wiki/Active_Directory)  -- Wiki
-2. [Azure AD Microsoft Docs（译文）](http://docs.azure.cn/)  -- zh-cn 代理
+
+2. Microsoft Docs
+
+   [Azure AD（译文）](http://docs.azure.cn/)  -- 国区代理
+
+   [Windows Server Docs](https://docs.microsoft.com/zh-cn/windows-server/)
+
 3. [Windows Server 2008，基于 LDAP 的 AD 域服务器搭建及其使用 ](https://www.cnblogs.com/cnjavahome/p/9029665.html)
+
+4. [LDAP -- Gitbook](https://daiker.gitbook.io/windows-protocol/ldap-pian/8)
+
