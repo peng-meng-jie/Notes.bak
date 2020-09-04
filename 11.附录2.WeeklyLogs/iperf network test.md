@@ -23,7 +23,7 @@ iperf -s
 ```powershell
 # 在 60s 并发 60 个请求，全速度测试，或者更长
 # client 
-iperf <server> -t 60 -P 60
+iperf -c <server> -t 60 -P 60
 
 # service
 iperf -s

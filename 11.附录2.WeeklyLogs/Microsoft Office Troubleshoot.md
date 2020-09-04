@@ -12,11 +12,15 @@
 
 额外补充
 
+1. 搜索引擎
+
 > 搜索引擎的技巧｜正则表达式 - 问题 site: 指定网站
 >
 > 如：excel 显示 site:microsoft.com
 
+2. [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
+   
 
 ##### 1. 信息收集
 
@@ -93,7 +97,11 @@ Microsoft ： Office、Windows
 **Reference**
 
 1. [Office 产品故障排除](https://docs.microsoft.com/zh-cn/office/troubleshoot/office-client-welcome)
+
 2. [Support content for Office client and server products  -- Github](https://github.com/MicrosoftDocs/OfficeDocs-Support)
+
 3. [面向管理员和 IT 专业人员的 Office 疑难解答](https://docs.microsoft.com/zh-cn/office/troubleshoot/)
+
+4. [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
    

@@ -22,8 +22,6 @@ V2Ray、Socks、HTTP、Shadowsocks、VMess等
 
 ## 2. Shadowsocks Server
 
-
-
 数据加密代理，“穿透防火墙”进行连接
 
 Note：建议使用代理链接，不要直接暴露本机IP
@@ -53,7 +51,7 @@ Note：不建议使用Windows搭建SSR代理服务器
 
 基础的软件/技术支持：Liunx bash、git、ssr源代码、System防火墙and自启动
 
-更多信息请自行Google后进行自行搭建
+更多信息请自行 Google 后进行自行搭建
 
 #### 3. VPS
 
