@@ -206,4 +206,6 @@ $HotFix_FAB > FAB-Hotfix-IP.txt
 7. [编写批处理文件 -- wikihow](https://zh.wikihow.com/编写批处理文件)
 8. [批处理总结与分享（适用于 Win XP）-- CSDN](https://blog.csdn.net/z22050519/article/details/17019137)
 9. [CMD 命令总结与解析 -- Blog](http://xstarcd.github.io/wiki/windows/windows_cmd_syntax.html)
+10. [PowerShell -- yanxyz_Note](https://yanxyz.github.io/powershell/)
+11. 
 

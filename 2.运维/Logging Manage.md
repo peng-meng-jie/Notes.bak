@@ -4,6 +4,8 @@ Logs 支持历史记录追溯、数据统计分析与管理、病毒分析、漏
 
 > 对服务器日志进行统计分析可以找出有关时间、引荐来源、用户代理等信息的规律和相关性。 Wikipedia # Server Logs
 
+
+
 ##### 1. Windows Event viewer
 
 却决于 Microsoft 所支持、能自定义、能够操作的应用层界面，使用方式为 Event viewer、PowerShell API。所以呢，这是建立在一封装好的信息中处理数据，关键的信息会受限于 Microsoft 的开发和支持。另外的中间件或软件 logs 工具不在此笔记中记录。
@@ -32,9 +34,11 @@ Application and Server logs
 
 Subscriptions
 
-> 参阅文档 [windows-event-collector](https://docs.microsoft.com/en-us/windows/win32/wec/windows-event-collector)
+> 参阅文档  [windows-event-collector](https://docs.microsoft.com/en-us/windows/win32/wec/windows-event-collector)
 >
 > 启动简单，参数也可以配置。
+>
+> > 第三方示例方案：[Windows Event 转发与订阅 -- 示例](https://blog.pmail.idv.tw/?p=16020)
 >
 > 备注：另有专业的第三方服务提供商 [kiwi-free-syslog-server](https://www.kiwisyslog.com/free-tools/kiwi-free-syslog-server)
 
@@ -88,7 +92,9 @@ Program、CLI（Linux Base Shell and Windows PowerShell）、Data storing；
 
 异常关机 ：系统行为 - 记录统计与分析 - 前后的异常变动 - 证实描述和推论；
 
-##### Attachment
+
+
+##### Appendix
 
 Reference
 
@@ -112,7 +118,9 @@ Reference
    
 3.  [kiwi-free-syslog-server](https://www.kiwisyslog.com/free-tools/kiwi-free-syslog-server)
 
-4. Linux
+4. [Windows Event 转发与订阅 -- 示例](https://blog.pmail.idv.tw/?p=16020)
+
+5. Linux
 
    [Rsyslog Server building -- 2014](http://blog.sae.sina.com.cn/archives/4768)
 

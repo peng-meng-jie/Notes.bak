@@ -86,7 +86,12 @@
 #### 3. 假设
 
 - 当前用户对于 Word 使用频率极高，期间可能回造成一些文档损坏，在后台做一个鼠标右键修复 Word 文档；
+
 - 逆向思维，把多余的鼠标右键选项删除；
+
+- 自定义网络驱动盘：AD + GPO
+
+  > Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\
 
 
 
