@@ -43,6 +43,8 @@
 
 基本也是从概念到概念，暂无实际操作，Pending - 2020/05/22
 
+
+
 ## 二. VLAN
 
 > **虚拟局域网**（**Virtual Local Area Network**或简写**VLAN**, **V-LAN**）是一种建构于局域网交换技术（LAN Switch）的[网络管理](https://zh.wikipedia.org/wiki/網絡管理)的技术，网管人员可以借此透过控制[交换机](https://zh.wikipedia.org/wiki/交換器)有效分派出入局域网的报文到正确的出入端口，达到对不同实体局域网中的设备进行逻辑分群（Grouping）管理，并降低局域网内大量数据流通时，因无用报文过多导致壅塞的问题，以及提升局域网的信息安全保障。	-- Wikipedia # VLAN
@@ -65,6 +67,8 @@
 - VLAN：PVLAN、中继协议、通讯（二层到三层）、VMPS、帧；
 
 <u>Notes：20/05/19 从概念到概念 # Pass</u>
+
+
 
 ## 三. Route 协议（节选）
 
@@ -121,7 +125,9 @@ Notes：基于块管理，模组化。
 
 Pending
 
-## 四. Route “Bash”
+
+
+## 四. Route CLI
 
 储备基本的知识，「配置指南」很重要
 
@@ -129,9 +135,13 @@ Pending
 
 Point: CLI 手册/增删改查/上下文记录/提示符，其他的就看个人的熟练程度\基础\经验知识的储备了．
 
-## 五. 网络排错
 
-ping、traceroute、telnet、arp
+
+## 五. 基础的网络排错
+
+elected：ping、traceroute、telnet、arp
+
+### 1. Ping and Tracetoute
 
 1. IP 寻址排错（ Ping ）
 
@@ -148,11 +158,23 @@ Linux 为 traceroute、Windows 为 tracer，已路由的跳点为基础，一次
 
 Notes：网关跳转，记录网关；
 
-3. ARP
+### 2. ARP
 
 发送广播 arp -a 即可获得已连接过的主机 IP 和 MAC 的地址。
 
 比如 确认 IP 和 MAC 地址，或查看多态路由连接表（交换路由上使用）。
+
+### 3. Windows Use SSH and Telnet
+
+使用 PuTTY 
+
+> [PuTTY: a free SSH and Telnet client](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+>
+> [PuTTY Portable](https://portableapps.com/apps/internet/putty_portable)
+
+备注：虽然 Windows 系统本身就支持  Telnet ，但是关闭或者开启该功能都需要通过重启菜呢完成设置，不方便也不推荐。
+
+
 
 ## Appendix
 

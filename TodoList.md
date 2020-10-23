@@ -7,9 +7,9 @@
 ## 1. Linux 基础
 
 - [x] 系统架构和目录
-- [ ] Linux 基础的文档
-- [ ] 基本的命令
-- [ ] 编辑器 VIM
+- [x] Linux 基础的文档
+- [x] 基本的命令
+- [x] 编辑器 VIM
 - [ ] ~~熟悉一个开发版 Linux（Debain）~~
 - [x] 日常使用 Linux （使用 Windows WSL）
 
@@ -53,17 +53,16 @@
 
 - [x] Nagios
 - [x] Puppet
-- [ ] Zabbix
-- [ ] Cacti
-- [ ] SaltStack
-- [ ] ...
+- [ ] ~~Zabbix~~
+- [ ] ~~Cacti~~
+- [ ] ~~SaltStack~~
 
 ## 5. 脚本
 
 - [ ] 必备 shell
 - [x] 自动化 Python Scripts
 - [x] 自动化 Microsoft Powershell
-- [ ] SQL
+- [ ] ~~SQL~~
 
 ## 6. 底层
 
@@ -123,6 +122,13 @@
 6. ###### 07/10/20，Add 「Attachment 4.History」
 
    > 增加以往的数据，补全目前整个 IT 职业探索记录；
+   
+7. **10/22/20，扩展、补全知识**
+
+   > 1. CCNA_node and AP;
+   > 2. ERP;
+
+   
 
 ## 12. 附录 2.Notes
 
