@@ -1,7 +1,9 @@
 ### Notes.bak
 一些笔记记录的副本，根据 GitHub 而排版。
 
-备注：引用文章或博客均有附录链接，如有侵犯，请联系删除
+> 引用文章或博客均有附录链接，如有侵犯，请联系删除 !	-- 2020.6
+
+
 
 ##### [1.基础](./1.基础)
 
@@ -17,7 +19,7 @@ AD、DHCP、DNS、FTP、LAMP、NTP、STMP、文件数据同步等；
 
 ##### [4.平台](./4.平台)
 
-Nagios、Puppet；
+Nagios、Puppet
 
 ##### [5.脚本](./5.脚本)
 
@@ -49,15 +51,17 @@ NAS、正则表达式、计算机图形设计、CSV；
 
 ##### [12.附录3.books](./12.附录3.books)
 
-个人阅读的一些书籍。由于版权问题不上传，书单如下；
+个人阅读的一些书籍，书单如下 : 
 
-> - CCNA 学习指南中文第七版.pdf
-> - Linux-Tools-RTS.epub
+> - Mastering-Windows-Server-2012-R2.pdf # 阅读中
+> - PowerShell 101.pdf # 已读
+> - CCNA 学习指南中文第七版.pdf  # 部分阅读
+> - Linux-Tools-RTS.epub # 已读
 > - Python Cookbook 3rd Edition Documentation.epub
-> - python-data-structure-cn.pdf
-> - SQL 必知必会-中文-第 4 版.pdf
-> - vbird-linux-basic-4e.pdf
-> - 流畅的 python.pdf
+> - python-data-structure-cn.pdf # 部分阅读
+> - SQL 必知必会-中文-第 4 版.pdf # 已读
+> - vbird-linux-basic-4e.pdf # 部分阅读
+> - 流畅的 python.pdf # 已读
 
 ##### [13.附录4.history](./13.附录4.history)
 

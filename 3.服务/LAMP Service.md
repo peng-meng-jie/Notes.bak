@@ -1,6 +1,6 @@
 # LAMP
 
-LAMP即Linux Apache Mysql PHP，基于Linux系统，使用Apache HTTP协议、Mysql或其他可整合的SQL数据库，以及渲染的计算机语言（PHP/Python）；
+LAMP 即 Linux Apache Mysql PHP，基于Linux系统，使用Apache HTTP协议、Mysql或其他可整合的SQL数据库，以及渲染的计算机语言（PHP/Python）；
 
 ## 1. 环境搭建
 
