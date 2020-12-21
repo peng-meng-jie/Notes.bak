@@ -724,7 +724,7 @@ Note
    
    [Windows Management Instrumentation（WMI）](https://docs.microsoft.com/en-us/windows/win32/wmisdk/wmi-start-page)
    
-   [icacls -- batch command](https://docs.microsoft.com/zh-cn/windows-server/administration/windows-commands/icacls)
+   [c-- batch command](https://docs.microsoft.com/zh-cn/windows-server/administration/windows-commands/icacls)
    
 3. Blog
    
