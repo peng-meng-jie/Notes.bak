@@ -18,7 +18,7 @@
 
 ##### 1）Computer Basic I 计算机基础
 
-**Link** ：[Computer Basic Knowledge I 计算机基础](./1.Computer Basic Knowledge I 计算机基础)
+**Link** ：[Computer Basic Knowledge I 计算机基础]('./1.Computer Basic Knowledge I 计算机基础')
 
 **TAG** ：网络、计算机基础
 
