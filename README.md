@@ -1,6 +1,6 @@
-#### Readme
+#### 关于个人笔记副本
 
-个人的笔记副本，记录学习的笔记、遇到的问题、新技术的发现、职业上的技能扩展...。
+个人的笔记副本，记录学习的笔记、遇到的问题、新技术的发现、职业上的技能扩展...
 
 我大体地把这些知识和系统架构总结为三大类，如下：
 
@@ -10,15 +10,13 @@
 
 **声明**
 
-> 文章中涉及部分知识和内容均有附录连接，如有侵权，请联系我删除。
+> 部分内容引用其他文章，涉及部分均有附录连接，如有侵权请联系删除。
 
 
 
-#### 1、Index
+#### Index
 
 ##### 1）Computer Basic I 计算机基础
-
-**Link** ：[Computer Basic Knowledge I 计算机基础](./1.Computer Basic Knowledge I 计算机基础)
 
 **TAG** ：网络、计算机基础
 
@@ -28,12 +26,6 @@
 > 2. 计算机硬件
 
 ##### 2）Service I 服务
-
-**Link** ：[Informationalized Service I 信息化服务](./2.Informationalized Service I 信息化服务)
-
->
->子目录推荐， [桌面技术支持](\2.Informationalized Service I 信息化服务\Desktop Help)
->
 
 **TAG**：AD、Desktop-Help、Operation
 
@@ -46,24 +38,28 @@
 
 ##### 3）DevOps I 自动化
 
-Link ：[DevOps I 自动化](./3.DevOps I 自动化)
-
-TAG ：PowerShell、Python
+**TAG** ：PowerShell、Python
 
 进行学习和记录有关运维自动化、或信息系统自动化方面的知识和笔记
 
 > 1. 脚本自动化
 > 2. 待完善
 
+##### 4）Notes
+
+**TAG**：兴趣、折腾
+
+记录一些自己感兴趣的事情（针对于和信息技术有关）
 
 
-#### 2、Appendix
 
-##### 1）Logs
+#### Appendix
+
+##### Logs
 
 > 1. 2020.12
 >
->    重置笔记系统，以此符合当前的职业规划发展
+>    重置笔记系统副本，使其更加接近个人的电子笔记系统
 >
 > 2. None
 
