@@ -18,8 +18,6 @@
 
 ##### 1）Computer Basic I 计算机基础
 
-**Link** ：Computer Basic Knowledge I 计算机基础
-
 **TAG** ：网络、计算机基础
 
 主要记录一些计算机基础的知识，比如硬件、网络协议、接口等
