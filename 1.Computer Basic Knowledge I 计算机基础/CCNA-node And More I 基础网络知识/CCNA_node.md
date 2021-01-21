@@ -1,4 +1,4 @@
-# CCNA_nodo
+# CCNA_node
 
 内容为节选，如下：
 
