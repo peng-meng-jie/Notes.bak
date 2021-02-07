@@ -155,7 +155,7 @@ PowerPoint 大纲模式就能够与普通的思维导图的软件不分上下，
 
 ##### 7. Microsoft Power Automatic	-static	-P -A -C
 
-居然收费需要管理权限，恰好都没有！Pass
+居然收费、需要管理权限，恰好都没有！Pass
 
 
 
