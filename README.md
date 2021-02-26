@@ -110,37 +110,25 @@ TAG：兴趣、折腾、思路、思路、记录、扩展、临时中心 ...
 
    保留以前的之前的 Logs
 
-   ```markdown
-   1. ###### 12/09/19  -- COPY 「Linux Support」 Skill Tree
-      > 1. 02/29/20  -- Reboot Skll Tree；
-      > 2. 04/0820  -- Add Markdown To-do；
-   2. ###### 04/24/20  -- Rename Title to「Windows System and Service」
-      > Rename「Linux Index」 to「Host System And Services」，主要面向 Linux、涉及 Windows 将其简称为“服务”
-   3. ###### 05/26/20  -- Move 「Notes Copy」to Gitbooks / Github 
-      > Rename title「Notes Todo」，这只是一个笔记；
-      > 取消了该计划 # GitBooks-- 05/26/20；
-   4. ###### 06/19/20 -- Add 「Basic Computer」
-      > [What-is-the-basic-principle-of-a-computer-system](https://www.quora.com/What-is-the-basic-principle-of-a-computer-system)
-      > 计算机的基础就是一台可输入可输出的机电集成设备；
-   5. ###### 06/23/20 Add 「SQL Languages」
-      > 增加补全计划 1. SQL Language，如果能预期完成就能涉及到运维的方方面面，略懂略懂；
-      > 07/14/20，补全计划失败，事情似乎越来越复杂了；
-   6. ###### 07/10/20，Add 「Attachment 4.History」
-      > 增加以往的数据，补全目前整个 IT 职业探索记录；
-   7. ###### 10/22/20，扩展、补全知识
-      > 1. CCNA_node and AP;
-      > 2. ERP;
-   8. ###### 12/24/20，更改笔记系统，关闭本项目
-      > 1. 更改笔记架构，更加符合当前的水平和意向
-   ```
+   <details><summary>Show / Hide</summary>
+   <ol><li><p> 12/09/19  -- COPY 「Linux Support」 Skill Tree
+   &gt; 1. 02/29/20  -- Reboot Skll Tree；
+   &gt; 2. 04/0820  -- Add Markdown To-do；</p></li><li><p> 04/24/20  -- Rename Title to「Windows System and Service」</p><p>&gt; Rename「Linux Index」 to「Host System And Services」，主要面向 Linux、涉及 Windows 将其简称为“服务”</p></li><li><p> 05/26/20  -- Move 「Notes Copy」to Gitbooks / Github </p><p>&gt; Rename title「Notes Todo」，这只是一个笔记；
+   &gt; 取消了该计划 # GitBooks-- 05/26/20；</p></li><li><p> 06/19/20 -- Add 「Basic Computer」</p><p>&gt; <a href="https://www.quora.com/What-is-the-basic-principle-of-a-computer-system">What-is-the-basic-principle-of-a-computer-system</a>
+   &gt; 计算机的基础就是一台可输入可输出的机电集成设备；</p></li><li><p> 06/23/20 Add 「SQL Languages」</p><p>&gt; 增加补全计划 1. SQL Language，如果能预期完成就能涉及到运维的方方面面，略懂略懂；
+   &gt; 07/14/20，补全计划失败，事情似乎越来越复杂了；</p></li><li><p> 07/10/20，Add 「Attachment 4.History」</p><p>&gt; 增加以往的数据，补全目前整个 IT 职业探索记录；</p></li><li><p> 10/22/20，扩展、补全知识</p><p>&gt; 1. CCNA_node and AP;
+   &gt; 2. ERP;</p></li><li><p> 12/24/20，更改笔记系统，关闭本项目</p><p>&gt; 1. 更改笔记架构，更加符合当前的水平和意向</p></li></ol>
+   </details>
 
 2. Next Title
 
-   
 
 ##### 题外话，为何不构建一个自己的博客 ?
 
-我只想负责输出自己的内容，并把其作为笔记和系统化知识结构，而不是花费时间在构建”Blog“中。拿现成的信息化平台的服务来用就好了，当然有更好的产品和服务我会考虑的。目前方案 ：Markdown（Typora） + Microsoft Office 365，外部扩展为 GitHub（主要副本，针对信息技术的笔记） 和 GitHub Page。
+<details><summary>Show / Hide</summary>
+<p>我只想负责输出自己的内容，并把其作为笔记和系统化知识结构，而不是花费时间在构建”Blog“中。拿现成的信息化平台的服务来用就好了，当然有更好的产品和服务我会考虑的。目前方案 ：Markdown（Typora） + Microsoft Office 365，外部扩展为 GitHub（主要副本，针对信息技术的笔记） 和 GitHub Page。</p>
+<p>一个比喻，我要做料理，在基础上我就负责把基本的物品准备好，然后开始制作自己的料理。我不能会去学习打铁”造锅“做起，而是拿现成的工具做出自己喜欢的料理就好了。</p>
+</details>
 
-   > 一个比喻，我要做料理，在基础上我就负责把基本的物品准备好，然后开始制作自己的料理。我不能会去学习打铁”造锅“做起，而是拿现成的工具做出自己喜欢的料理就好了。
+
 
