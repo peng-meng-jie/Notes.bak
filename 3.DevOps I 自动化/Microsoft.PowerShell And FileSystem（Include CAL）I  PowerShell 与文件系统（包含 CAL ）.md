@@ -6,9 +6,9 @@
 
 **背景**
 
-使用 MSTSC 管理服务器, 只能够单页面管理, 而且很像一个个人打开了一个程序进行管理.它存在这些缺点 : 
+使用 MSTSC 管理服务器, 只能够单页面管理, 而且很像一个个打开了一个程序进行管理.它存在这些缺点 : 
 
-> 它的画面是有限的\文件传输同理. 额外的图像传输操作服务器和客户端以及网络的负担.
+> 它的画面是有限的、文件传输同理，额外的图像传输操作服务器和客户端以及网络的负担.
 
 **需求：寻找更好更有效的管理办法**
 
@@ -702,7 +702,7 @@ Note
 
 ##### **Reference**
 
-1. PowerShell | www.pstips.net
+1. PowerShell
    
    [PowerShell文件系统（一）前言](https://www.pstips.net/the-file-system.html)
    [PowerShell文件系统（二）访问文件和目录](https://www.pstips.net/accessing-files-and-directories.html)

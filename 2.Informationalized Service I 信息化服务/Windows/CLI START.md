@@ -101,15 +101,13 @@ PS > Get-childitem -path "D:\" # 获取指定路径下的文件夹和文件数�
 
 Powershell、Batch、DOS Command、command 启动流程；
 
-Reference
+Reference · Microsoft Docs
 
-1. Microsoft Docs
+[PowerShell Module Browser](https://docs.microsoft.com/en-us/powershell/module/)
 
-   [PowerShell Module Browser](https://docs.microsoft.com/en-us/powershell/module/)
+[controlpanel-canonical-names](https://docs.microsoft.com/zh-cn/windows/win32/shell/controlpanel-canonical-names)
 
-   [controlpanel-canonical-names](https://docs.microsoft.com/zh-cn/windows/win32/shell/controlpanel-canonical-names)
-   
-   [executing-control-panel-items](https://docs.microsoft.com/zh-cn/windows/win32/shell/executing-control-panel-items)
+[executing-control-panel-items](https://docs.microsoft.com/zh-cn/windows/win32/shell/executing-control-panel-items)
 
 
 
