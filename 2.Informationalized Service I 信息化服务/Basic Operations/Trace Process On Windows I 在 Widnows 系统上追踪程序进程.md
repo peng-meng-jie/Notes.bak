@@ -32,7 +32,7 @@
 
 
 
-##### Example Trace Process
+##### Example 1. Trace Process
 
 获取进程
 
@@ -53,28 +53,47 @@ C:\Program Files (x86)\VMware\Infrastructure\Virtual Infrastructure Client\Launc
 ```
 
 辅助工具
-> Get-NetTCPConnection ，配合管道 Select-Object、 Where-Object ，接近完美。
+> + Get-NetTCPConnection ，配合管道 Select-Object、 Where-Object ，接近完美。
 >
-> Netstat（Batch Command），还是 PoweShell 好用，支持管道。
+>   在 PowerShell 5+ 以上，如鱼得水般的流畅。（前提要会使用）
 >
-> Process Monitor（gui），好用
+> + Netstat（Batch Command），还是 PoweShell 好用，支持管道。
 >
-> Task Manage （gui），系统自带无需额外下载，方便。
+>   可在 cmd 下进行工作，对于 Windows 7 较为适用。
 >
-> TCPView （gui），可看端口绑定的进程，进而参阅看多的信息。
+> + Process Monitor（gui），好用
+>
+>   可追踪程序，包括不限于：规则过滤及嵌套、IO 读写、”辅助定位“ ...
+>
+>   > 可参阅此 https://blog.darkthread.net/blog/977/（zh-tw） 
+>
+> + Task Manage （gui），系统自带无需额外下载，方便。
+>
+>   GUI 的方式管理、可看进程、服务，以及创建“转储文件”。
+>
+> + TCPView （gui），可看端口绑定的进程，进而参阅看多的信息。
+>
+>   最大的特点：可看已绑定网络端口的进程，微软提供，独一无二 ！
 
 
 
-##### Useful
+##### Useful Extend
 
 或利用在于其他方面，比如 ：
 
 > + 追踪广告软件，并通过”权限管理“将其封杀（因对“不好的软件”）。
 > + 追踪网络，混合 PowerShell + TCPView + Process Monitor ，一条龙服务把问题找出来。
-> + 对程序调试感兴趣的可以尝试配合 WinDbg 一起使用。
+> + 对程序调试感兴趣的可以尝试配合 WinDbg 或 x64Dbg 一起使用。
+> + 或许会用到“暂停”程序的功能，如 PsSuspend （Windows Sysinternals Tool）
 > + 补充：已及其他有关“程序进程”的问题，都可利用此工具进行追踪。
 
-PS. 作为追踪一个程序，以上全文相关知识和 **工具** 足以。（只适用于 Windows）
+相关工具
+
+> - [x64Dbg](https://x64dbg.com/)
+> - [Debugging Tools for Windows (WinDbg, KD, CDB, NTSD)](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/) （WinDbg）
+> - [Windows Sysinternals - Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/) 
+
+PS. 作为追踪一个程序，以上相关知识和 **工具** 目前足以。（只适用于 Windows）
 
 
 
@@ -84,9 +103,13 @@ PS. 作为追踪一个程序，以上全文相关知识和 **工具** 足以。�
 
 [Windows Command - Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)
 
+[Debugging Tools for Windows (WinDbg, KD, CDB, NTSD)](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/)
+
 [Netstat  - Wikipedia](https://zh.wikipedia.org/wiki/Netstat)
 
 [Collecting Process Monitor Log - acronis](https://kb.acronis.com/content/2295)
 
 [Use netstat blog](http://aries.dyu.edu.tw/~tarng/dyu_c.c/netstat.htm)
+
+[x64Dbg](https://x64dbg.com/)
 
